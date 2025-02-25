@@ -6,4 +6,4 @@
 
 
 ## Front - end
-* HTML / CSS
+* HTML / CSS / JS
